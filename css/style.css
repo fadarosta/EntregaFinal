@@ -88,7 +88,7 @@ header #navBar ul li a {
 }
 
 .collapse.navbar-collapse {
-  flex-direction: column !important;
+  flex-direction: column !important; /* Apila los elementos verticalmente */
 }
 
 li {
